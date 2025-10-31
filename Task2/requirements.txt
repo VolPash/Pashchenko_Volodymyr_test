@@ -1,0 +1,9 @@
+torch
+opencv-python
+numpy
+pandas
+geopandas
+rasterio
+shapely
+matplotlib
+kagglehub

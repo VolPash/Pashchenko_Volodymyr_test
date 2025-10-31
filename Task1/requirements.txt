@@ -1,0 +1,6 @@
+transformers
+torch
+seqeval
+numpy
+spacy
+tqdm
